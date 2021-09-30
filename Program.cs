@@ -7,6 +7,7 @@ namespace Dz04
         static void Main(string[] args)
         {
             Console.WriteLine("Air conditioning!");
+            
         }
     }
 }
